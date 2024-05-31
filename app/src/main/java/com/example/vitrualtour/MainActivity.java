@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        textView = findViewById(R.id.text_view);
+        textView = findViewById(R.id.salamPembuka1); // Ganti dengan id yang sesuai dengan TextView yang ingin diubah
 
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_navigation);
 
