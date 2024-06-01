@@ -7,7 +7,6 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentTransaction;
 
 public class HomeFragment extends Fragment {
 
@@ -29,11 +28,8 @@ public class HomeFragment extends Fragment {
         shape1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Replace current fragment with PutraFragment
-                FragmentTransaction transaction = requireActivity().getSupportFragmentManager().beginTransaction();
-                transaction.replace(R.id.fragment_container, new PutraFragment());
-                transaction.addToBackStack(null);
-                transaction.commit();
+                // Navigate to PutraFragment and update BottomNavigationView
+                ((MainActivity) getActivity()).navigateToFragment(R.id.putra);
             }
         });
 
@@ -41,11 +37,8 @@ public class HomeFragment extends Fragment {
         shape2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Replace current fragment with PutriFragment
-                FragmentTransaction transaction = requireActivity().getSupportFragmentManager().beginTransaction();
-                transaction.replace(R.id.fragment_container, new PutriFragment());
-                transaction.addToBackStack(null);
-                transaction.commit();
+                // Navigate to PutriFragment and update BottomNavigationView
+                ((MainActivity) getActivity()).navigateToFragment(R.id.putri);
             }
         });
 
