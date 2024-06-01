@@ -2,40 +2,48 @@ package com.example.vitrualtour;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentTransaction;
 import android.os.Bundle;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import android.view.MenuItem;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
-    private TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        textView = findViewById(R.id.salamPembuka1); // Ganti dengan id yang sesuai dengan TextView yang ingin diubah
-
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_navigation);
 
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                Fragment selectedFragment = null;
                 switch (item.getItemId()) {
                     case R.id.navigation_home:
-                        textView.setText("Home");
-                        return true;
+                        selectedFragment = new HomeFragment();
+                        break;
                     case R.id.putra:
-                        textView.setText("Putra");
-                        return true;
+                        selectedFragment = new PutraFragment();
+                        break;
                     case R.id.putri:
-                        textView.setText("Putri");
-                        return true;
+                        selectedFragment = new PutriFragment();
+                        break;
                 }
-                return false;
+                if (selectedFragment != null) {
+                    Fragment currentFragment = getSupportFragmentManager().findFragmentById(R.id.fragment_container);
+                    if (currentFragment == null || !currentFragment.getClass().equals(selectedFragment.getClass())) {
+                        getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
+                    }
+                }
+                return true;
             }
         });
+
+        // Set default selection
+        bottomNavigationView.setSelectedItemId(R.id.navigation_home);
     }
 }
