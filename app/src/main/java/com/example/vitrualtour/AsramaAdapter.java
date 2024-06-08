@@ -3,33 +3,38 @@ package com.example.vitrualtour;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
-
-import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.List;
 
 public class AsramaAdapter extends RecyclerView.Adapter<AsramaAdapter.AsramaViewHolder> {
-    private List<Asrama> asramaList;
 
-    public AsramaAdapter(List<Asrama> asramaList) {
+    private List<String> asramaList;
+    private OnItemClickListener listener;
+
+    public interface OnItemClickListener {
+        void onItemClick(int position);
+    }
+
+    public void setOnItemClickListener(OnItemClickListener listener) {
+        this.listener = listener;
+    }
+
+    public AsramaAdapter(List<String> asramaList) {
         this.asramaList = asramaList;
     }
 
-    @NonNull
     @Override
-    public AsramaViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_asrama, parent, false);
-        return new AsramaViewHolder(view);
+    public AsramaViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        View itemView = LayoutInflater.from(parent.getContext())
+                .inflate(R.layout.item_asrama, parent, false);
+        return new AsramaViewHolder(itemView, listener);
     }
 
     @Override
-    public void onBindViewHolder(@NonNull AsramaViewHolder holder, int position) {
-        Asrama asrama = asramaList.get(position);
-        holder.nameTextView.setText(asrama.getName());
-        holder.imageView.setImageResource(asrama.getImageResource());
+    public void onBindViewHolder(AsramaViewHolder holder, int position) {
+        String asrama = asramaList.get(position);
+        holder.asramaName.setText(asrama);
     }
 
     @Override
@@ -38,13 +43,19 @@ public class AsramaAdapter extends RecyclerView.Adapter<AsramaAdapter.AsramaView
     }
 
     public static class AsramaViewHolder extends RecyclerView.ViewHolder {
-        TextView nameTextView;
-        ImageView imageView;
+        public TextView asramaName;
 
-        public AsramaViewHolder(View itemView) {
-            super(itemView);
-            nameTextView = itemView.findViewById(R.id.text_asrama);
-            imageView = itemView.findViewById(R.id.image_asrama);
+        public AsramaViewHolder(View view, final OnItemClickListener listener) {
+            super(view);
+            asramaName = view.findViewById(R.id.text_asrama);
+            view.setOnClickListener(v -> {
+                if (listener != null) {
+                    int position = getAdapterPosition();
+                    if (position != RecyclerView.NO_POSITION) {
+                        listener.onItemClick(position);
+                    }
+                }
+            });
         }
     }
 }
