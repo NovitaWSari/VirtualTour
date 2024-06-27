@@ -3,4 +3,181 @@
     <string name="title_home">Home</string>
     <string name="title_putra">Asrama Putra</string>
     <string name="title_putri">Asrama Putri</string>
+
+    <!-- Deskripsi konten gambar 360 -->
+    <string name="asramaA">Foto 360 Asrama A</string>
+
+    <!-- Alamat Asrama A -->
+    <string name="alamat_asramaA">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+
+    <!-- Profil Asrama A -->
+    <string name="profil_asramaA">Asrama A adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2005 dan mampu menampung hingga 200 santri.</string>
+
+    <!-- Fasilitas Asrama A -->
+    <string name="fasilitasA1">Ruang Belajar</string>
+    <string name="fasilitasA2">Kamar Mandi</string>
+    <!-- Tambahkan lebih banyak fasilitas sesuai kebutuhan -->
+    <string name="fasilitasA3">Perpustakaan</string>
+    <string name="fasilitasA4">Lapangan Olahraga</string>
+
+    <!-- Kegiatan Asrama A -->
+    <string name="kegiatan_asramaA">Santri di Asrama A mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+
+
+    <!-- ASRAMA B -->
+    <string name="asramaB">Foto 360 Asrama A</string>
+    <string name="alamat_asramaB">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaB">Asrama A adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2005 dan mampu menampung hingga 200 santri.</string>
+    <string name="fasilitasB1">Ruang Belajar</string>
+    <string name="fasilitasB2">Kamar Mandi</string>
+    <string name="fasilitasB3">Perpustakaan</string>
+    <string name="fasilitasB4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaB">Santri di Asrama A mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+
+    <!-- ASRAMA C -->
+    <string name="asramaC">Foto 360 Asrama A</string>
+    <string name="alamat_asramaC">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaC">Asrama A adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2005 dan mampu menampung hingga 200 santri.</string>
+    <string name="fasilitasC1">Ruang Belajar</string>
+    <string name="fasilitasC2">Kamar Mandi</string>
+    <string name="fasilitasC3">Perpustakaan</string>
+    <string name="fasilitasC4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaC">Santri di Asrama A mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+
+    <!-- ASRAMA D -->
+    <string name="asramaD">Foto 360 Asrama D</string>
+    <string name="alamat_asramaD">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaD">Asrama D adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2008 dan mampu menampung hingga 240 santri.</string>
+    <string name="fasilitasD1">Ruang Belajar</string>
+    <string name="fasilitasD2">Kamar Mandi</string>
+    <string name="fasilitasD3">Perpustakaan</string>
+    <string name="fasilitasD4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaD">Santri di Asrama D mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+
+    <!-- ASRAMA F -->
+    <string name="asramaF">Foto 360 Asrama F</string>
+    <string name="alamat_asramaF">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaF">Asrama F adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2010 dan mampu menampung hingga 260 santri.</string>
+    <string name="fasilitasF1">Ruang Belajar</string>
+    <string name="fasilitasF2">Kamar Mandi</string>
+    <string name="fasilitasF3">Perpustakaan</string>
+    <string name="fasilitasF4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaF">Santri di Asrama F mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+
+    <!-- ASRAMA G -->
+    <string name="asramaG">Foto 360 Asrama G</string>
+    <string name="alamat_asramaG">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaG">Asrama G adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2011 dan mampu menampung hingga 270 santri.</string>
+    <string name="fasilitasG1">Ruang Belajar</string>
+    <string name="fasilitasG2">Kamar Mandi</string>
+    <string name="fasilitasG3">Perpustakaan</string>
+    <string name="fasilitasG4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaG">Santri di Asrama G mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA H -->
+    <string name="asramaH">Foto 360 Asrama H</string>
+    <string name="alamat_asramaH">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaH">Asrama H adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2012 dan mampu menampung hingga 280 santri.</string>
+    <string name="fasilitasH1">Ruang Belajar</string>
+    <string name="fasilitasH2">Kamar Mandi</string>
+    <string name="fasilitasH3">Perpustakaan</string>
+    <string name="fasilitasH4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaH">Santri di Asrama H mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA I -->
+    <string name="asramaI">Foto 360 Asrama I</string>
+    <string name="alamat_asramaI">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaI">Asrama I adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2013 dan mampu menampung hingga 290 santri.</string>
+    <string name="fasilitasI1">Ruang Belajar</string>
+    <string name="fasilitasI2">Kamar Mandi</string>
+    <string name="fasilitasI3">Perpustakaan</string>
+    <string name="fasilitasI4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaI">Santri di Asrama I mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA J -->
+    <string name="asramaJ">Foto 360 Asrama J</string>
+    <string name="alamat_asramaJ">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaJ">Asrama J adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2014 dan mampu menampung hingga 300 santri.</string>
+    <string name="fasilitasJ1">Ruang Belajar</string>
+    <string name="fasilitasJ2">Kamar Mandi</string>
+    <string name="fasilitasJ3">Perpustakaan</string>
+    <string name="fasilitasJ4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaJ">Santri di Asrama J mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA K -->
+    <string name="asramaK">Foto 360 Asrama K</string>
+    <string name="alamat_asramaK">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaK">Asrama K adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2015 dan mampu menampung hingga 310 santri.</string>
+    <string name="fasilitasK1">Ruang Belajar</string>
+    <string name="fasilitasK2">Kamar Mandi</string>
+    <string name="fasilitasK3">Perpustakaan</string>
+    <string name="fasilitasK4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaK">Santri di Asrama K mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+
+    <!-- ASRAMA L -->
+    <string name="asramaL">Foto 360 Asrama L</string>
+    <string name="alamat_asramaL">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaL">Asrama L adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2016 dan mampu menampung hingga 320 santri.</string>
+    <string name="fasilitasL1">Ruang Belajar</string>
+    <string name="fasilitasL2">Kamar Mandi</string>
+    <string name="fasilitasL3">Perpustakaan</string>
+    <string name="fasilitasL4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaL">Santri di Asrama L mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA M -->
+    <string name="asramaM">Foto 360 Asrama M</string>
+    <string name="alamat_asramaM">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaM">Asrama M adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2017 dan mampu menampung hingga 330 santri.</string>
+    <string name="fasilitasM1">Ruang Belajar</string>
+    <string name="fasilitasM2">Kamar Mandi</string>
+    <string name="fasilitasM3">Perpustakaan</string>
+    <string name="fasilitasM4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaM">Santri di Asrama M mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA N -->
+    <string name="asramaN">Foto 360 Asrama N</string>
+    <string name="alamat_asramaN">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaN">Asrama N adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2018 dan mampu menampung hingga 340 santri.</string>
+    <string name="fasilitasN1">Ruang Belajar</string>
+    <string name="fasilitasN2">Kamar Mandi</string>
+    <string name="fasilitasN3">Perpustakaan</string>
+    <string name="fasilitasN4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaN">Santri di Asrama N mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA O -->
+    <string name="asramaO">Foto 360 Asrama O</string>
+    <string name="alamat_asramaO">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaO">Asrama O adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2019 dan mampu menampung hingga 350 santri.</string>
+    <string name="fasilitasO1">Ruang Belajar</string>
+    <string name="fasilitasO2">Kamar Mandi</string>
+    <string name="fasilitasO3">Perpustakaan</string>
+    <string name="fasilitasO4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaO">Santri di Asrama O mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA P -->
+    <string name="asramaP">Foto 360 Asrama P</string>
+    <string name="alamat_asramaP">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaP">Asrama P adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2020 dan mampu menampung hingga 360 santri.</string>
+    <string name="fasilitasP1">Ruang Belajar</string>
+    <string name="fasilitasP2">Kamar Mandi</string>
+    <string name="fasilitasP3">Perpustakaan</string>
+    <string name="fasilitasP4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaP">Santri di Asrama P mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
+    <!-- ASRAMA Q -->
+    <string name="asramaQ">Foto 360 Asrama Q</string>
+    <string name="alamat_asramaQ">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
+    <string name="profil_asramaQ">Asrama Q adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2021 dan mampu menampung hingga 370 santri.</string>
+    <string name="fasilitasQ1">Ruang Belajar</string>
+    <string name="fasilitasQ2">Kamar Mandi</string>
+    <string name="fasilitasQ3">Perpustakaan</string>
+    <string name="fasilitasQ4">Lapangan Olahraga</string>
+    <string name="kegiatan_asramaQ">Santri di Asrama Q mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+
 </resources>

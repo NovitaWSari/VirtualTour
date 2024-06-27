@@ -1,6 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:padding="16dp">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Foto 360 -->
+        <ImageView
+            android:id="@+id/image_360H"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/placeholder_shape"
+            android:contentDescription="@string/asramaH"
+            android:scaleType="centerCrop"
+            android:onClick="view360Image" />
+
+        <!-- Alamat -->
+        <TextView
+            android:id="@+id/addressH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/alamat_asramaH"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
+        <!-- Icon alamat -->
+        <ImageView
+            android:id="@+id/icon_addressH"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:src="@drawable/address"
+            android:layout_marginTop="-32dp"
+            android:layout_marginEnd="16dp"
+            android:layout_gravity="end" />
+
+        <!-- Profil Asrama -->
+        <TextView
+            android:id="@+id/profileH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/profil_asramaH"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
+        <!-- Fasilitas Asrama -->
+        <TextView
+            android:id="@+id/facilities_titleH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fasilitas"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:paddingTop="8dp"/>
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasH1"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasH2"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
+        <!-- Kegiatan Asrama -->
+        <TextView
+            android:id="@+id/activitiesH"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kegiatan_asramaH"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+    </LinearLayout>
+</ScrollView>
