@@ -19,6 +19,19 @@
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
 
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/directionOneBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lihat Lokasi Di Google Maps"/>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/directionTwoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lokasi Spesifik"/>
+
         <!-- Alamat -->
         <TextView
             android:id="@+id/address"
@@ -29,17 +42,6 @@
             android:textColor="@android:color/black"
             android:paddingTop="8dp"
             android:gravity="start"/>
-
-        <!-- Icon alamat -->
-        <ImageView
-            android:id="@+id/icon_address"
-            android:layout_width="26dp"
-            android:layout_height="26dp"
-            android:src="@drawable/address"
-            android:layout_marginTop="-32dp"
-            android:layout_marginEnd="16dp"
-            android:layout_gravity="end"
-             />
 
         <!-- Profil Asrama -->
         <TextView
@@ -61,6 +63,7 @@
             android:textStyle="bold"
             android:paddingTop="8dp"/>
 
+
         <HorizontalScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -72,6 +75,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
+                <!-- Fasilitas 1 -->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -88,6 +92,7 @@
                         android:gravity="center"/>
                 </LinearLayout>
 
+                <!-- Fasilitas 2 -->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -104,17 +109,169 @@
                         android:gravity="center"/>
                 </LinearLayout>
 
+                <!-- Fasilitas 3 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasA3"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas 4 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasA4"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas 5 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasA5"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas 6 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasA6"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas 7 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasA7"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas 8 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasA8"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas 9 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasA9"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
             </LinearLayout>
         </HorizontalScrollView>
 
-        <!-- Kegiatan Asrama -->
+
+
+        <!-- Kegiatan Asrama Harian -->
         <TextView
-            android:id="@+id/activities"
+            android:id="@+id/activities_daily"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/kegiatan_asramaA"
+            android:text="@string/kegiatan_harian_asramaA"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>
+
+        <!-- Kegiatan Asrama Mingguan -->
+        <TextView
+            android:id="@+id/activities_weekly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kegiatan_mingguan_asramaA"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
+        <!-- Kegiatan Asrama Bulanan -->
+        <TextView
+            android:id="@+id/activities_monthly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kegiatan_bulanan_asramaA"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
+        <!-- Kegiatan Asrama Tahunan -->
+        <TextView
+            android:id="@+id/activities_annual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kegiatan_tahunan_asramaA"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
     </LinearLayout>
 </ScrollView>

@@ -4,36 +4,43 @@
     <string name="title_putra">Asrama Putra</string>
     <string name="title_putri">Asrama Putri</string>
 
-    <!-- Deskripsi konten gambar 360 -->
+    <!-- Asrama A -->
     <string name="asramaA">Foto 360 Asrama A</string>
-
-    <!-- Alamat Asrama A -->
-    <string name="alamat_asramaA">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-
-    <!-- Profil Asrama A -->
-    <string name="profil_asramaA">Asrama A adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2005 dan mampu menampung hingga 200 santri.</string>
-
-    <!-- Fasilitas Asrama A -->
-    <string name="fasilitasA1">Ruang Belajar</string>
-    <string name="fasilitasA2">Kamar Mandi</string>
-    <!-- Tambahkan lebih banyak fasilitas sesuai kebutuhan -->
-    <string name="fasilitasA3">Perpustakaan</string>
-    <string name="fasilitasA4">Lapangan Olahraga</string>
-
-    <!-- Kegiatan Asrama A -->
-    <string name="kegiatan_asramaA">Santri di Asrama A mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="alamat_asramaA">Pondok Pesantren Ngalah terletak di Dusun Pandean, Desa SengonAgung, Kecamatan Purwosari, Kabupaten Pasuruan, Provinsi Jawa Timur</string>
+    <string name="profil_asramaA">Informasi Kontak, email : asramaha.27@gmail.com</string>
+    <string name="fasilitasA1">1 Kantor</string>
+    <string name="fasilitasA2">27 Kamar</string>
+    <string name="fasilitasA3">2 Kamar Mandi</string>
+    <string name="fasilitasA4">10 WC</string>
+    <string name="fasilitasA5">1 Masjid</string>
+    <string name="fasilitasA6">1 Toilet Tamu</string>
+    <string name="fasilitasA7">1 Kantin</string>
+    <string name="fasilitasA8">1 Ruang Tamu</string>
+    <string name="fasilitasA9">1 Kamar Tamu</string>
+    <string name="kegiatan_harian_asramaA">Santri di Asrama A mengikuti kegiatan harian seperti jamaah 5 waktu, jamaah sholat duha, pengajian bandongan, sekolah formal, sekolah non-formal, lalaran nadhoman sesuai kelasnya, madrasatul quran, belajar bersama, ngaji sorogan kitab sesuai kelasnya, pembacaan asmaul husna, pembacaan utawi dan setoran nadhomah</string>
+    <string name="kegiatan_mingguan_asramaA">Santri di Asrama A mengikuti kegiatan mingguan seperti yasin dan tahlil, yasin fadhilah dan istigosah, muhadoroh kamar, pembacaan manaqib, pembacaan diba, ekstra kulikuler, dan roan bersama</string>
+    <string name="kegiatan_bulanan_asramaA">Santri di Asrama A mengikuti kegiatan bulanan seperti dzikrul ghofilin, tadarus Al-quran, khataman Al-quran, muhadoroh akbar, pembacaan istigosah tahlil bersama</string>
+    <string name="kegiatan_tahunan_asramaA">Santri di Asrama A mengikuti kegiatan tahunan seperti  peringatan harlah asrama A, OSABA asrama bagi santri baru dan PHBI/PHBN</string>
 
 
 
     <!-- ASRAMA B -->
-    <string name="asramaB">Foto 360 Asrama A</string>
-    <string name="alamat_asramaB">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-    <string name="profil_asramaB">Asrama A adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2005 dan mampu menampung hingga 200 santri.</string>
-    <string name="fasilitasB1">Ruang Belajar</string>
-    <string name="fasilitasB2">Kamar Mandi</string>
-    <string name="fasilitasB3">Perpustakaan</string>
-    <string name="fasilitasB4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaB">Santri di Asrama A mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="asramaB">Foto 360 Asrama B</string>
+    <string name="alamat_asramaB">Pondok Pesantren Ngalah terletak di Dusun Pandean, Desa SengonAgung, Kecamatan Purwosari, Kabupaten Pasuruan, Provinsi Jawa Timur</string>
+    <string name="profil_asramaB">Informasi Kontak, Telp : 089530411249</string>
+    <string name="fasilitasB1">1 Kantor Asrama</string>
+    <string name="fasilitasB2">1 Kantor Pusat</string>
+    <string name="fasilitasB3">15 Ruang Kamar</string>
+    <string name="fasilitasB4">1 Warnet Asrama</string>
+    <string name="fasilitasB5">1 Koperasi Asrama</string>
+    <string name="fasilitasB6">4 Kamar Mandi</string>
+    <string name="fasilitasB7">18 WC</string>
+    <string name="fasilitasB8">3 Kolam Air</string>
+    <string name="fasilitasB9">2 Jemuran</string>
+    <string name="kegiatan_harian_asramaB">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaB">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaB">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaB">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
 
 
     <!-- ASRAMA C -->
@@ -44,8 +51,10 @@
     <string name="fasilitasC2">Kamar Mandi</string>
     <string name="fasilitasC3">Perpustakaan</string>
     <string name="fasilitasC4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaC">Santri di Asrama A mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
-
+    <string name="kegiatan_harian_asramaC">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaC">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaC">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaC">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
 
     <!-- ASRAMA D -->
     <string name="asramaD">Foto 360 Asrama D</string>
@@ -55,8 +64,10 @@
     <string name="fasilitasD2">Kamar Mandi</string>
     <string name="fasilitasD3">Perpustakaan</string>
     <string name="fasilitasD4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaD">Santri di Asrama D mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
-
+    <string name="kegiatan_harian_asramaD">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaD">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaD">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaD">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
 
     <!-- ASRAMA F -->
     <string name="asramaF">Foto 360 Asrama F</string>
@@ -66,8 +77,10 @@
     <string name="fasilitasF2">Kamar Mandi</string>
     <string name="fasilitasF3">Perpustakaan</string>
     <string name="fasilitasF4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaF">Santri di Asrama F mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
-
+    <string name="kegiatan_harian_asramaF">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaF">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaF">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaF">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
 
     <!-- ASRAMA G -->
     <string name="asramaG">Foto 360 Asrama G</string>
@@ -77,7 +90,11 @@
     <string name="fasilitasG2">Kamar Mandi</string>
     <string name="fasilitasG3">Perpustakaan</string>
     <string name="fasilitasG4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaG">Santri di Asrama G mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaG">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaG">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaG">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaG">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
 
     <!-- ASRAMA H -->
     <string name="asramaH">Foto 360 Asrama H</string>
@@ -87,7 +104,11 @@
     <string name="fasilitasH2">Kamar Mandi</string>
     <string name="fasilitasH3">Perpustakaan</string>
     <string name="fasilitasH4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaH">Santri di Asrama H mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaH">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaH">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaH">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaH">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
 
     <!-- ASRAMA I -->
     <string name="asramaI">Foto 360 Asrama I</string>
@@ -97,7 +118,12 @@
     <string name="fasilitasI2">Kamar Mandi</string>
     <string name="fasilitasI3">Perpustakaan</string>
     <string name="fasilitasI4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaI">Santri di Asrama I mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaI">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaI">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaI">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaI">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
+
 
     <!-- ASRAMA J -->
     <string name="asramaJ">Foto 360 Asrama J</string>
@@ -107,7 +133,12 @@
     <string name="fasilitasJ2">Kamar Mandi</string>
     <string name="fasilitasJ3">Perpustakaan</string>
     <string name="fasilitasJ4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaJ">Santri di Asrama J mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaJ">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaJ">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaJ">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaJ">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
+
 
     <!-- ASRAMA K -->
     <string name="asramaK">Foto 360 Asrama K</string>
@@ -117,7 +148,10 @@
     <string name="fasilitasK2">Kamar Mandi</string>
     <string name="fasilitasK3">Perpustakaan</string>
     <string name="fasilitasK4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaK">Santri di Asrama K mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaK">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaK">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaK">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaK">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
 
 
     <!-- ASRAMA L -->
@@ -128,7 +162,11 @@
     <string name="fasilitasL2">Kamar Mandi</string>
     <string name="fasilitasL3">Perpustakaan</string>
     <string name="fasilitasL4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaL">Santri di Asrama L mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaL">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaL">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaL">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaL">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
 
     <!-- ASRAMA M -->
     <string name="asramaM">Foto 360 Asrama M</string>
@@ -138,7 +176,12 @@
     <string name="fasilitasM2">Kamar Mandi</string>
     <string name="fasilitasM3">Perpustakaan</string>
     <string name="fasilitasM4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaM">Santri di Asrama M mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaM">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaM">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaM">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaM">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
+
 
     <!-- ASRAMA N -->
     <string name="asramaN">Foto 360 Asrama N</string>
@@ -148,7 +191,11 @@
     <string name="fasilitasN2">Kamar Mandi</string>
     <string name="fasilitasN3">Perpustakaan</string>
     <string name="fasilitasN4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaN">Santri di Asrama N mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaN">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaN">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaN">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaN">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
 
     <!-- ASRAMA O -->
     <string name="asramaO">Foto 360 Asrama O</string>
@@ -158,7 +205,11 @@
     <string name="fasilitasO2">Kamar Mandi</string>
     <string name="fasilitasO3">Perpustakaan</string>
     <string name="fasilitasO4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaO">Santri di Asrama O mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaO">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaO">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaO">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaO">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
 
     <!-- ASRAMA P -->
     <string name="asramaP">Foto 360 Asrama P</string>
@@ -168,7 +219,12 @@
     <string name="fasilitasP2">Kamar Mandi</string>
     <string name="fasilitasP3">Perpustakaan</string>
     <string name="fasilitasP4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaP">Santri di Asrama P mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaP">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaP">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaP">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaP">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
+
 
     <!-- ASRAMA Q -->
     <string name="asramaQ">Foto 360 Asrama Q</string>
@@ -178,6 +234,10 @@
     <string name="fasilitasQ2">Kamar Mandi</string>
     <string name="fasilitasQ3">Perpustakaan</string>
     <string name="fasilitasQ4">Lapangan Olahraga</string>
-    <string name="kegiatan_asramaQ">Santri di Asrama Q mengikuti berbagai kegiatan seperti pengajian rutin, olahraga, dan kegiatan ekstrakurikuler lainnya. Kegiatan-kegiatan ini bertujuan untuk mengembangkan potensi santri secara holistik.</string>
+    <string name="kegiatan_harian_asramaQ">Santri di Asrama A mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaQ">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaQ">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaQ">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+
 
 </resources>

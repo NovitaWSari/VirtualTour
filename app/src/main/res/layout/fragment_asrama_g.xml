@@ -106,12 +106,42 @@
             </LinearLayout>
         </HorizontalScrollView>
 
-        <!-- Kegiatan Asrama -->
+        <!-- Kegiatan Harian -->
         <TextView
-            android:id="@+id/activitiesG"
+            android:id="@+id/kegiatan_harian_asramaG"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/kegiatan_asramaG"
+            android:text="@string/kegiatan_harian_asramaG"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
+        <!-- Kegiatan Mingguan -->
+        <TextView
+            android:id="@+id/kegiatan_mingguan_asramaG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kegiatan_mingguan_asramaG"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
+        <!-- Kegiatan Bulanan -->
+        <TextView
+            android:id="@+id/kegiatan_bulanan_asramaG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kegiatan_bulanan_asramaG"
+            android:textSize="14sp"
+            android:paddingTop="8dp"
+            android:gravity="start"/>
+
+        <!-- Kegiatan Tahunan -->
+        <TextView
+            android:id="@+id/kegiatan_tahunan_asramaG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kegiatan_tahunan_asramaG"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>
