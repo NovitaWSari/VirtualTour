@@ -24,7 +24,7 @@
             android:id="@+id/addressD"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/alamat_asramaD"
+            android:text="@string/profil_asramaD"
             android:textSize="16sp"
             android:textColor="@android:color/black"
             android:paddingTop="8dp"
@@ -45,7 +45,7 @@
             android:id="@+id/profileD"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/profil_asramaD"
+            android:text="@string/kontak_asramaD"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>

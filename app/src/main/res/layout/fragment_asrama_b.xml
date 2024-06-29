@@ -19,33 +19,37 @@
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
 
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/directionOneBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lihat Lokasi Di Google Maps"/>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/directionTwoBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lokasi Spesifik"/>
+
         <!-- Alamat -->
         <TextView
             android:id="@+id/addressB"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/alamat_asramaB"
+            android:text="@string/profil_asramaB"
             android:textSize="16sp"
             android:textColor="@android:color/black"
             android:paddingTop="8dp"
             android:gravity="start"/>
 
-        <!-- Icon alamat -->
-        <ImageView
-            android:id="@+id/icon_addressB"
-            android:layout_width="26dp"
-            android:layout_height="26dp"
-            android:src="@drawable/address"
-            android:layout_marginTop="-32dp"
-            android:layout_marginEnd="16dp"
-            android:layout_gravity="end" />
 
         <!-- Profil Asrama -->
         <TextView
             android:id="@+id/profileB"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/profil_asramaB"
+            android:text="@string/kontak_asramaB"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>
@@ -228,44 +232,126 @@
         </HorizontalScrollView>
 
 
-        <!-- Kegiatan Harian -->
         <TextView
-            android:id="@+id/kegiatan_harian_asramaB"
-            android:layout_width="match_parent"
+            android:id="@+id/activities_intro"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/kegiatan_harian_asramaB"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
+            android:text="Selain Tersedianya Fasilitas yang memadai, di asrama B juga terdapat berbagai kegiatan, meliputi:"
+            android:textSize="16sp"
+            android:paddingTop="16dp"
+            android:paddingBottom="8dp"/>
 
-        <!-- Kegiatan Mingguan -->
-        <TextView
-            android:id="@+id/kegiatan_mingguan_asramaB"
+        <HorizontalScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/kegiatan_mingguan_asramaB"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
+            android:fillViewport="true">
 
-        <!-- Kegiatan Bulanan -->
-        <TextView
-            android:id="@+id/kegiatan_bulanan_asramaB"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/kegiatan_bulanan_asramaB"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
-        <!-- Kegiatan Tahunan -->
-        <TextView
-            android:id="@+id/kegiatan_tahunan_asramaB"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/kegiatan_tahunan_asramaB"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
+                <!-- Kegiatan Harian -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Harian"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_harian_asramaB"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+                <!-- Kegiatan Mingguan -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Mingguan"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_mingguan_asramaB"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+                <!-- Kegiatan Bulanan -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Bulanan"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_bulanan_asramaB"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+                <!-- Kegiatan Tahunan -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Tahunan"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_tahunan_asramaB"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
     </LinearLayout>
 </ScrollView>

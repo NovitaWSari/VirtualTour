@@ -6,8 +6,8 @@
 
     <!-- Asrama A -->
     <string name="asramaA">Foto 360 Asrama A</string>
-    <string name="alamat_asramaA">Pondok Pesantren Ngalah terletak di Dusun Pandean, Desa SengonAgung, Kecamatan Purwosari, Kabupaten Pasuruan, Provinsi Jawa Timur</string>
-    <string name="profil_asramaA">Informasi Kontak, email : asramaha.27@gmail.com</string>
+    <string name="profil_asramaA">Asrama A merupakan salah satu asrama yang terdapat di Pondok Pesantren Ngalah. Asrama A berdiri pada tahun 1985, merupakan bangunan pondok yang pertama kali di bangun. Adapan pengasuh asrama A adalah Gus Muhammad Jamaluddin dan Neng Siti Nuronia. Jumlah santri putra yang kini menetap di Asrama A ada 444 santri dengan jumlah pengurus 37 santri.</string>
+    <string name="kontak_asramaA">asramaha.27@gmail.com</string>
     <string name="fasilitasA1">1 Kantor</string>
     <string name="fasilitasA2">27 Kamar</string>
     <string name="fasilitasA3">2 Kamar Mandi</string>
@@ -26,8 +26,8 @@
 
     <!-- ASRAMA B -->
     <string name="asramaB">Foto 360 Asrama B</string>
-    <string name="alamat_asramaB">Pondok Pesantren Ngalah terletak di Dusun Pandean, Desa SengonAgung, Kecamatan Purwosari, Kabupaten Pasuruan, Provinsi Jawa Timur</string>
-    <string name="profil_asramaB">Informasi Kontak, Telp : 089530411249</string>
+    <string name="profil_asramaB">Asrama B merupakan salah satu asrama yang berada di Pondok Pesantren Ngalah. Pengasuh asrama B adalah Gus Muhammad Jamaluddin dan Neng Siti Nuronia. Jumlah Santri Putri yang menetap di Asrama B adalah 262 Santri dengan jumlah pengurus Sebanyak 24 Santri</string>
+    <string name="kontak_asramaB">089530411249</string>
     <string name="fasilitasB1">1 Kantor Asrama</string>
     <string name="fasilitasB2">1 Kantor Pusat</string>
     <string name="fasilitasB3">15 Ruang Kamar</string>
@@ -37,50 +37,63 @@
     <string name="fasilitasB7">18 WC</string>
     <string name="fasilitasB8">3 Kolam Air</string>
     <string name="fasilitasB9">2 Jemuran</string>
-    <string name="kegiatan_harian_asramaB">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaB">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaB">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaB">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaB">Santri di Asrama B mengikuti kegiatan harian seperti Jamaah sholat lima waktu, pengajian sorogan pagi dan malam, jamaah sholat duha, pembacaan surat berfaedah atau juz 30, lalaran nadhoman sesuai jenjang madin, syawir pagi, sekolah formal, pengajian tafsir, pengajian taklim muatalim, syawir sore, setoran nadhoman, madrasatul quran, sekolah madin dan pengajian bandongan malam </string>
+    <string name="kegiatan_mingguan_asramaB">Santri di Asrama B mengikuti kegiatan mingguan seperti tartilan, ubudiyah, tahlilan, pembelajaran nahwu, jamaah sholat malam, manaqib, yasinan, dibaiyah, muhadoroh dan bimbingan al-banjari el-halwa</string>
+    <string name="kegiatan_bulanan_asramaB">Santri di Asrama B mengikuti kegiatan bulanan seperti dzikrul gofilin, istigosah, rotiban, roan bersama dan khataman Al-quran </string>
+    <string name="kegiatan_tahunan_asramaB">Santri di Asrama B mengikuti kegiatan tahunan seperti peringatan tahun baru islam, peringatan maulid nabi, haflah akhirussanah dan pelatihan mc dan pidato </string>
 
 
     <!-- ASRAMA C -->
-    <string name="asramaC">Foto 360 Asrama A</string>
-    <string name="alamat_asramaC">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-    <string name="profil_asramaC">Asrama A adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2005 dan mampu menampung hingga 200 santri.</string>
+    <string name="asramaC">Foto 360 Asrama C</string>
+    <string name="profil_asramaC">Asrama C merupakan salah satu asrama yang terdapat di Pondok pesantren Ngalah, adapun Pengasuh Asrama C sama seperti Asrama A dan B, yaitu Gus Muhammad Jamaluddin dan Neng Siti Nuronia. </string>
+    <string name="kontak_asramaC">0895637043388</string>
     <string name="fasilitasC1">Ruang Belajar</string>
     <string name="fasilitasC2">Kamar Mandi</string>
     <string name="fasilitasC3">Perpustakaan</string>
     <string name="fasilitasC4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaC">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaC">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaC">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaC">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaC">Santri di Asrama C mengikuti kegiatan harian seperti Jamaah sholat subuh, nadhoman sesuai kelas masing-masing, pengajian sorogan dan mutolaah, pengajian yasin, al-waqiah dan ar-rahman, piket halaman asrama, jamaah sholat duha, sekolah formal, jamaah sholat asar, pengajian kitab tafsir, pengajian kitab taklim, pengajian kitab Wasoyah, Risalatul Mahid ,Taisil Kholaq, pengajian surah Al-waqiah, jaamah sholat magrib, madrasatul quran, jamaah sholat isya dan madrasah diniah </string>
+    <string name="kegiatan_mingguan_asramaC">Santri di Asrama C mengikuti kegiatan mingguan seperti Pengajian Qomiut tughyan, pengajian kitab Syarah Hikam, Pengaian Kitab Tanqihul Qoul, Pengajian KItab Fathul Qorib, tahwil bersamah, membaca surat Yasin bersama, dibaiyah, tajwidan, utawi dan irob Asmaul khusna bersama, manaqiban, istigosah, muhadoroh asrama, tadarus Al-quran, pembelajaran Qiroah dan Skil Atlas Wali Songo, Jawabul masail, Banjari, MC, Pidato, Kaligrafi. </string>
+    <string name="kegiatan_bulanan_asramaC">Santri di Asrama C mengikuti kegiatan bulanan seperti muhadoroh, roan akbar, ubudiyah, burdah, dan dzikrul gofilin </string>
+    <string name="kegiatan_tahunan_asramaC">Santri di Asrama  C mengikuti kegiatan tahunan seperti OSABA asrama, peringatan tahun baru islam, peringatan 10 muharrom, peringatan maulid nabi dan peringatan 17 agustus 1945 </string>
 
     <!-- ASRAMA D -->
     <string name="asramaD">Foto 360 Asrama D</string>
-    <string name="alamat_asramaD">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-    <string name="profil_asramaD">Asrama D adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2008 dan mampu menampung hingga 240 santri.</string>
-    <string name="fasilitasD1">Ruang Belajar</string>
-    <string name="fasilitasD2">Kamar Mandi</string>
-    <string name="fasilitasD3">Perpustakaan</string>
-    <string name="fasilitasD4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaD">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaD">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaD">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaD">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="profil_asramaD">Asrama D merupakan salah satu asrama yang berada di Pondok Pesantren Ngalah. Asrama D berdiri setelah asrama A B C pada tahun 2001. Adapun pengasuh Asrama D adalah Dr. H. Agus Yusuf Wijaya, Lc,MM dan Neng Siti Faiqoh. Jumlah Santri putri di Asrama D ada307 Santri dengan JUmlah Pengurus 25 Santri</string>
+    <string name="kontak_asramaD">0343614244</string>
+    <string name="fasilitasD1">25 Ruang Kamar</string>
+    <string name="fasilitasD2">1 Kantor Asrama</string>
+    <string name="fasilitasD3">1 Kantor MQ</string>
+    <string name="fasilitasD4">1 Mushola</string>
+    <string name="fasilitasD5">1 Aula</string>
+    <string name="fasilitasD6">1 Ruang Kantin</string>
+    <string name="fasilitasD7">1 Koperasi</string>
+    <string name="fasilitasD8">2 Lokal Kamar Mandi</string>
+    <string name="fasilitasD9">1 Lokal WC</string>
+    <string name="fasilitasD10">1 Lokal Cuci Baju</string>
+    <string name="fasilitasD11">1 Gudang</string>
+    <string name="fasilitasD12">1 Ruang Pengiriman</string>
+    <string name="fasilitasD13">1 Ruang Warnet</string>
+    <string name="kegiatan_harian_asramaD">Santri di Asrama D mengikuti kegiatan harian seperti Jamaah sholat 5 waktu, jamaah sholat duha, pengajian bandongan, pengajian sorogan, sekolah formal, sekolah non formal, pengajian MQ, Pembacaan surat Al-mulk, pembacaan Surat Yasin dan Nadhoman </string>
+    <string name="kegiatan_mingguan_asramaD">Santri di Asrama D mengikuti kegiatan mingguan seperti Tajwidan, iroban, tahlilan, rotiban, dibaiyah, asmaul khusna, jamaah sholat malam, manaqib, tadarus Al-quran, bimbingan Tilawah Quran, bimbingan Gema sholawat, syawir dan kajian galak gampil </string>
+    <string name="kegiatan_bulanan_asramaD">Santri di Asrama D mengikuti kegiatan bulanan seperti Dzikrul gofilin, istigosah, budrahan, dan khataman Al-quran </string>
+    <string name="kegiatan_tahunan_asramaD">Santri di Asrama D mengikuti kegiatan tahunan seperti Ubudiyah Santri Baru  </string>
 
     <!-- ASRAMA F -->
     <string name="asramaF">Foto 360 Asrama F</string>
     <string name="alamat_asramaF">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
     <string name="profil_asramaF">Asrama F adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2010 dan mampu menampung hingga 260 santri.</string>
-    <string name="fasilitasF1">Ruang Belajar</string>
-    <string name="fasilitasF2">Kamar Mandi</string>
-    <string name="fasilitasF3">Perpustakaan</string>
-    <string name="fasilitasF4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaF">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaF">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaF">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaF">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="fasilitasF1">1 Kantor Asrama</string>
+    <string name="fasilitasF2">22 Ruang Kamar</string>
+    <string name="fasilitasF3">1 Warnet</string>
+    <string name="fasilitasF4">2 Lokal Kantin</string>
+    <string name="fasilitasF5">10 Ruang Kamar Mandi</string>
+    <string name="fasilitasF6">15 Ruang WC</string>
+    <string name="fasilitasF7">1 Kolam Air</string>
+    <string name="fasilitasF8">3 Lokal Jemuran</string>
+    <string name="kegiatan_harian_asramaF">Santri di Asrama f mengikuti kegiatan harian seperti jamaah solat 5 waktu, pengajian sorogan, jamaah solat duha, pembacaan utawi, lalaran nadzoman sesuai jenjang madin, sekolah formal, pengajian Tafsir, pengajian Taklim mutaalim, setoran nadzoman, Madrasatul quran, sekolah madin, pengajian bandongan malam, sholat malam danpengajian Amtsilati </string>
+    <string name="kegiatan_mingguan_asramaF">Santri di Asrama f mengikuti kegiatan mingguan seperti Ubudiyah, Tahlilan, Manaqiban, Yasinan, Dibaiyah, Muhadhoroh dan roan </string>
+    <string name="kegiatan_bulanan_asramaF">Santri di Asrama f mengikuti kegiatan bulanan seperti Dzikrul Ghofilin, istighosah, Khataman Al Quran dan Muhadhoroh Akbar </string>
+    <string name="kegiatan_tahunan_asramaF">Santri di Asrama f mengikuti kegiatan tahunan seperti  peringatan tahun baru islam, peringatan maulid nabi, Haflah Akhirussanah Dan pelatihan MC dan pidato  </string>
 
     <!-- ASRAMA G -->
     <string name="asramaG">Foto 360 Asrama G</string>
@@ -90,10 +103,10 @@
     <string name="fasilitasG2">Kamar Mandi</string>
     <string name="fasilitasG3">Perpustakaan</string>
     <string name="fasilitasG4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaG">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaG">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaG">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaG">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaG">Santri di Asrama G mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaG">Santri di Asrama G mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaG">Santri di Asrama G mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaG">Santri di Asrama G mengikuti kegiatan tahunan seperti  </string>
 
 
     <!-- ASRAMA H -->
@@ -104,10 +117,10 @@
     <string name="fasilitasH2">Kamar Mandi</string>
     <string name="fasilitasH3">Perpustakaan</string>
     <string name="fasilitasH4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaH">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaH">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaH">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaH">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaH">Santri di Asrama H mengikuti kegiatan harian seperti jamaah sholat 5 waktu, jamaah sholat dhuha, pengajian Bandongan, sekolah formal, lalaran Nadzoman, MQ, belajar bersama Dan sorogan akbar </string>
+    <string name="kegiatan_mingguan_asramaH">Santri di Asrama H mengikuti kegiatan mingguan seperti sorogan Asrama, setoran Nadzoman, praktek ubudiyah, FDQ(forum Alquran Discution), Syawir, Yasin Dan Tahlil, Yasin Fadhilah Dan Istighosah, muhadhoroh kamar, Qiroah, latihan vocal dan banjari Dan Dibaiyah </string>
+    <string name="kegiatan_bulanan_asramaH">Santri di Asrama H mengikuti kegiatan bulanan seperti Bahtsul Masail, pembacaan sholawat Burdah, Rotiban, Manaqib, Dzikrul Ghofilin, sholat malam, Khataman legian, Khataman kliwonan </string>
+    <string name="kegiatan_tahunan_asramaH">Santri di Asrama H mengikuti kegiatan tahunan seperti peringatan Harlah Asrama H, PHBI/PHBN </string>
 
 
     <!-- ASRAMA I -->
@@ -118,10 +131,10 @@
     <string name="fasilitasI2">Kamar Mandi</string>
     <string name="fasilitasI3">Perpustakaan</string>
     <string name="fasilitasI4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaI">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaI">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaI">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaI">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaI">Santri di Asrama I mengikuti kegiatan harian seperti jamaah sholat subuh, pengajian kitab Bukhori, takror pelajaran madin, sorogan kitab Sulam Safinah, sorogam kitab Jurumiyah, sorogan kitab Fathul Qorib, Mukhafadzoh, takziran pendidikan dan keamanan , piket asrama, jamaah sholat Dhuhur, jamaah sholat Asar, pengajian kitab Tafsir Jalalain, pengajian kitab Sulam Taufiq, jamaah sholat magrib, madaratul Quran, jamaah solat isya, sekolah diniyah dan bandongan kitabun Nikah </string>
+    <string name="kegiatan_mingguan_asramaI">Santri di Asrama I mengikuti kegiatan mingguan seperti pengajian kitab Minhajul Abidin, pengajian kitab Dahlan alfiyah, pengajian kitab Simtul Iqyan, pengajian kitab Uqudul Lujain, pengajian kitab Fathul Qorib, pengajian kitab Jurumiyah, Tahlil bersama, membaca surat yasin bersama, jamiyah dibaiyah, Tajwidan, istighosah, Utawi dan irob, sholawatan, manakiban, muhadhoroh asrama, tadarus Al Quran, MMQ, prmbuatan mading, Demo Kreatifitas, penulisan dawuh Romo Kyai, PPBA(pengebangan bahasa asing), pembacaan surah yasin,Ar Rahman dan Al Mulk, ekstrakulikuler(Qiroah,sholawat,media,kerajinan tangan,agrokultur,kaligrafi dadn banjari)</string>
+    <string name="kegiatan_bulanan_asramaI">Santri di Asrama I mengikuti kegiatan bulanan sepertimukhadoroh kubro asrama, muhadhororh Akbar santri putri, jamiyah Burdah, Dzikrul Ghofilin, roan asrama, Ubudiyah dan Rotibul Haddad </string>
+    <string name="kegiatan_tahunan_asramaI">Santri di Asrama I mengikuti kegiatan tahunan seperti lomba kreatifitas santri, peringatan tahun baru islam, peringatan hari santri, peringatan milad pondok, peringatan 17 agustus, peringatan Isro Mikroj, peringatan Maulid Nabi, Haflatul ikhtitam Dan Haflah Akhirussanah </string>
 
 
 
@@ -133,10 +146,10 @@
     <string name="fasilitasJ2">Kamar Mandi</string>
     <string name="fasilitasJ3">Perpustakaan</string>
     <string name="fasilitasJ4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaJ">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaJ">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaJ">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaJ">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaJ">Santri di Asrama J mengikuti kegiatan harian seperti jamaah sholat fardu, Dhuha, MQ, sorogan,syawir, bandongan dan tafsir  </string>
+    <string name="kegiatan_mingguan_asramaJ">Santri di Asrama J mengikuti kegiatan mingguan seperti Dibaiyah, Manaqib dan muhadhoroh</string>
+    <string name="kegiatan_bulanan_asramaJ">Santri di Asrama J mengikuti kegiatan bulanan seperti Burdah dan Dzikrul Ghofilin</string>
+    <string name="kegiatan_tahunan_asramaJ">Santri di Asrama J mengikuti kegiatan tahunan seperti PHBI Dan Haflah akhirussanah  </string>
 
 
 
@@ -148,10 +161,10 @@
     <string name="fasilitasK2">Kamar Mandi</string>
     <string name="fasilitasK3">Perpustakaan</string>
     <string name="fasilitasK4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaK">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaK">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaK">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaK">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaK">Santri di Asrama K mengikuti kegiatan harian seperti jamaah sholat fardu, Dhuha, MQ, sorogan, syawir, bandongan, tafsir, sholat malam, piket asrama dan Amtsilati</string>
+    <string name="kegiatan_mingguan_asramaK">Santri di Asrama K mengikuti kegiatan mingguan seperti dibaiyah, manaqib, muhadhoroh, ishari, pengajian kitabfalaq, ekstra albanjari, ekstra alhabsyi dan roan </string>
+    <string name="kegiatan_bulanan_asramaK">Santri di Asrama K mengikuti kegiatan bulanan seperti Dzikrul Ghofilin Dan khataman </string>
+    <string name="kegiatan_tahunan_asramaK">Santri di Asrama K mengikuti kegiatan tahunan seperti PHBI dan Haflah Akhirussanah </string>
 
 
     <!-- ASRAMA L -->
@@ -162,10 +175,10 @@
     <string name="fasilitasL2">Kamar Mandi</string>
     <string name="fasilitasL3">Perpustakaan</string>
     <string name="fasilitasL4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaL">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaL">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaL">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaL">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaL">Santri di Asrama L mengikuti kegiatan harian seperti jamaah sholat 5 waktu, jamaah sholat dhuha, jamaah sholat malam, pengajian bandongan, pengajian sorogan, sekolah formal, sekolah non formal, pengajian MQ, pembacaan surah yasin, dan piket harian asrama </string>
+    <string name="kegiatan_mingguan_asramaL">Santri di Asrama L mengikuti kegiatan mingguan seperti tajwadan, iroban, tahlilan, dibaiyah, asmaul husna, manaqiban, tadarrus Al Quran, muhadhoroh, Extra Qiroah, Extra kaligrafi dan Extra sholawatan  </string>
+    <string name="kegiatan_bulanan_asramaL">Santri di Asrama L mengikuti kegiatan bulanan seperti Dzikrul Ghofilin, istighosah, burdahan Dan khataman Al Quran</string>
+    <string name="kegiatan_tahunan_asramaL">Santri di Asrama L mengikuti kegiatan tahunan seperti ubudiyah santri baru, peringatan hari besar islam an nasional Dan peringatan Harlah asrama L  </string>
 
 
     <!-- ASRAMA M -->
@@ -176,10 +189,10 @@
     <string name="fasilitasM2">Kamar Mandi</string>
     <string name="fasilitasM3">Perpustakaan</string>
     <string name="fasilitasM4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaM">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaM">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaM">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaM">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaM">Santri di Asrama M mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaM">Santri di Asrama M mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaM">Santri di Asrama M mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaM">Santri di Asrama M mengikuti kegiatan tahunan seperti  </string>
 
 
 
@@ -205,10 +218,10 @@
     <string name="fasilitasO2">Kamar Mandi</string>
     <string name="fasilitasO3">Perpustakaan</string>
     <string name="fasilitasO4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaO">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaO">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaO">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaO">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaO">Santri di Asrama O mengikuti kegiatan harian seperti jamaah sholat subuh, pengjian sorogan, piket halaman asrama pagi, jamaah sholat dhuha, KBM sekolah formal, jamaah sholat asar, pengajian kitab Tafsir Jalalain, pengajian kitab Talim, piket halaman sore, jamaah sholat magrib, KBM madrasah diniyah, lalaran nadzoman Dan wajib belajar  </string>
+    <string name="kegiatan_mingguan_asramaO">Santri di Asrama O mengikuti kegiatan mingguan seperti pengajian bandongan, pengajian syawir, pembacaan tahlil bersama, pembacaan dibaiyah, pembacaan manaqiban, setoran nadzoman, muhdhoroh asrama dan jamaah sholat jumat </string>
+    <string name="kegiatan_bulanan_asramaO">Santri di Asrama O mengikuti kegiatan bulanan seperti pembacaan surat Al Mulk, pembacaan surat Ar Rahman, pembacaan Rotibul Haddad, pembacaan istighosah bersama, pembcaan Dzikrul Ghofilin, pembacaan sholawat burdah bersama gus Miftach, pembacaan asmaul husna, utawi, dan irob bersama, roan akbar Dan lomba kebersihan kamar </string>
+    <string name="kegiatan_tahunan_asramaO">Santri di Asrama O mengikuti kegiatan tahunan seperti lomba administrasi kamar, tasyakuran dan penghargaan santri berprestasi, peringatan tahun baru islam, peringatan 10 muharram, peringatan Isri Miroj dan peringatan Maulud Nabi </string>
 
 
     <!-- ASRAMA P -->
@@ -219,10 +232,10 @@
     <string name="fasilitasP2">Kamar Mandi</string>
     <string name="fasilitasP3">Perpustakaan</string>
     <string name="fasilitasP4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaP">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaP">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaP">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaP">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaP">Santri di Asrama P mengikuti kegiatan harian seperti sholat jamaah 5 waktu, nderes, sekolah diniyah, Qiyammul diniyah, waqiaan, dan kepengasuhan atau wetonan </string>
+    <string name="kegiatan_mingguan_asramaP">Santri di Asrama P mengikuti kegiatan mingguan seperti manaqiban, yasin dan tahlil, mengaji Jawabul Masail Dan Diba</string>
+    <string name="kegiatan_bulanan_asramaP">Santri di Asrama P mengikuti kegiatan bulanan seperti sowan pengasuh asrama diponpes ngalah, khataman AlQuran disetiap jumat legi, outdor study dan kunjungan orang tua </string>
+    <string name="kegiatan_tahunan_asramaP">Santri di Asrama  Pmengikuti kegiatan tahunan seperti Haflah pondok pesantren ngalah  dan Rihlah asrama P </string>
 
 
 
@@ -234,10 +247,10 @@
     <string name="fasilitasQ2">Kamar Mandi</string>
     <string name="fasilitasQ3">Perpustakaan</string>
     <string name="fasilitasQ4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaQ">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaQ">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaQ">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaQ">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="kegiatan_harian_asramaQ">Santri di Asrama Q mengikuti kegiatan harian seperti </string>
+    <string name="kegiatan_mingguan_asramaQ">Santri di Asrama Q mengikuti kegiatan mingguan seperti </string>
+    <string name="kegiatan_bulanan_asramaQ">Santri di Asrama Q mengikuti kegiatan bulanan seperti </string>
+    <string name="kegiatan_tahunan_asramaQ">Santri di Asrama Q mengikuti kegiatan tahunan seperti  </string>
 
 
 </resources>

@@ -24,28 +24,18 @@
             android:id="@+id/addressC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/alamat_asramaC"
+            android:text="@string/profil_asramaC"
             android:textSize="16sp"
             android:textColor="@android:color/black"
             android:paddingTop="8dp"
             android:gravity="start"/>
-
-        <!-- Icon alamat -->
-        <ImageView
-            android:id="@+id/icon_addressC"
-            android:layout_width="26dp"
-            android:layout_height="26dp"
-            android:src="@drawable/address"
-            android:layout_marginTop="-32dp"
-            android:layout_marginEnd="16dp"
-            android:layout_gravity="end" />
 
         <!-- Profil Asrama -->
         <TextView
             android:id="@+id/profileC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/profil_asramaC"
+            android:text="@string/kontak_asramaC"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>
