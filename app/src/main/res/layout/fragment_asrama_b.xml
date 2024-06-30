@@ -14,7 +14,7 @@
             android:id="@+id/image_360B"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@drawable/placeholder_shape"
+            android:src="@drawable/photo360_asrama_b"
             android:contentDescription="@string/asramaB"
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
@@ -25,16 +25,8 @@
             android:layout_height="wrap_content"
             android:text="Lihat Lokasi Di Google Maps"/>
 
-
-        <com.google.android.material.button.MaterialButton
-            android:id="@+id/directionTwoBtn"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Lokasi Spesifik"/>
-
-        <!-- Alamat -->
         <TextView
-            android:id="@+id/addressB"
+            android:id="@+id/profilB"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/profil_asramaB"
@@ -44,9 +36,9 @@
             android:gravity="start"/>
 
 
-        <!-- Profil Asrama -->
+        <!-- Kontak Asrama -->
         <TextView
-            android:id="@+id/profileB"
+            android:id="@+id/KontakB"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/kontak_asramaB"
@@ -231,9 +223,9 @@
             </LinearLayout>
         </HorizontalScrollView>
 
-
+        <!-- Kegiatan Asrama -->
         <TextView
-            android:id="@+id/activities_intro"
+            android:id="@+id/activities_introB"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Selain Tersedianya Fasilitas yang memadai, di asrama B juga terdapat berbagai kegiatan, meliputi:"

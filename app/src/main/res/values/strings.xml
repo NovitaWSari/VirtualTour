@@ -80,8 +80,8 @@
 
     <!-- ASRAMA F -->
     <string name="asramaF">Foto 360 Asrama F</string>
-    <string name="alamat_asramaF">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-    <string name="profil_asramaF">Asrama F adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2010 dan mampu menampung hingga 260 santri.</string>
+    <string name="alamat_asramaF">nn</string>
+    <string name="profil_asramaF">nn</string>
     <string name="fasilitasF1">1 Kantor Asrama</string>
     <string name="fasilitasF2">22 Ruang Kamar</string>
     <string name="fasilitasF3">1 Warnet</string>
@@ -97,8 +97,8 @@
 
     <!-- ASRAMA G -->
     <string name="asramaG">Foto 360 Asrama G</string>
-    <string name="alamat_asramaG">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-    <string name="profil_asramaG">Asrama G adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2011 dan mampu menampung hingga 270 santri.</string>
+    <string name="alamat_asramaG">nnn</string>
+    <string name="profil_asramaG">nn</string>
     <string name="fasilitasG1">Ruang Belajar</string>
     <string name="fasilitasG2">Kamar Mandi</string>
     <string name="fasilitasG3">Perpustakaan</string>
@@ -113,10 +113,18 @@
     <string name="asramaH">Foto 360 Asrama H</string>
     <string name="alamat_asramaH">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
     <string name="profil_asramaH">Asrama H adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2012 dan mampu menampung hingga 280 santri.</string>
-    <string name="fasilitasH1">Ruang Belajar</string>
-    <string name="fasilitasH2">Kamar Mandi</string>
-    <string name="fasilitasH3">Perpustakaan</string>
-    <string name="fasilitasH4">Lapangan Olahraga</string>
+    <string name="fasilitasH1">2 Kantor Asrama</string>
+    <string name="fasilitasH2">46 Ruang Kamar</string>
+    <string name="fasilitasH3">6 Kamar Mandi</string>
+    <string name="fasilitasH4">1 Masjid</string>
+    <string name="fasilitasH5">18 WC</string>
+    <string name="fasilitasH6">1 Warnet</string>
+    <string name="fasilitasH7">2 Koprasi</string>
+    <string name="fasilitasH8">2 Kamar Mandi Tamu</string>
+    <string name="fasilitasH9">2 Toilet Majid</string>
+    <string name="fasilitasH10">2 Kantin</string>
+    <string name="fasilitasH11">1 Auditorium</string>
+    <string name="fasilitasH12">1 Aula</string>
     <string name="kegiatan_harian_asramaH">Santri di Asrama H mengikuti kegiatan harian seperti jamaah sholat 5 waktu, jamaah sholat dhuha, pengajian Bandongan, sekolah formal, lalaran Nadzoman, MQ, belajar bersama Dan sorogan akbar </string>
     <string name="kegiatan_mingguan_asramaH">Santri di Asrama H mengikuti kegiatan mingguan seperti sorogan Asrama, setoran Nadzoman, praktek ubudiyah, FDQ(forum Alquran Discution), Syawir, Yasin Dan Tahlil, Yasin Fadhilah Dan Istighosah, muhadhoroh kamar, Qiroah, latihan vocal dan banjari Dan Dibaiyah </string>
     <string name="kegiatan_bulanan_asramaH">Santri di Asrama H mengikuti kegiatan bulanan seperti Bahtsul Masail, pembacaan sholawat Burdah, Rotiban, Manaqib, Dzikrul Ghofilin, sholat malam, Khataman legian, Khataman kliwonan </string>
