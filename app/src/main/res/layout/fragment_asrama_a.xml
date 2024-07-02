@@ -46,13 +46,6 @@
             android:paddingTop="9dp"
             android:gravity="start"/>
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="30dp"
-            android:orientation="vertical"
-            android:padding="8dp"
-            android:background="@drawable/placeholder_shape"
-            android:layout_marginEnd="8dp">
 
             <TextView
                 android:layout_width="wrap_content"
@@ -60,7 +53,7 @@
                 android:text="@string/kontak_asramaA"
                 android:textSize="14sp"
                 android:gravity="center"/>
-        </LinearLayout>
+
 
         <!-- Fasilitas Asrama -->
         <TextView
