@@ -14,10 +14,11 @@
             android:id="@+id/image_360J"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@drawable/placeholder_shape"
+            android:src="@drawable/photo360_asrama_j"
             android:contentDescription="@string/asramaJ"
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
+
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/directionOneBtn"

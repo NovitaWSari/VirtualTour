@@ -19,33 +19,30 @@
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
 
-        <!-- Alamat -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/directionOneBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lihat Lokasi Di Google Maps"/>
+
+        <!-- Profil Asrama -->
         <TextView
             android:id="@+id/addressN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/alamat_asramaN"
+            android:text="@string/profil_asramaN"
             android:textSize="16sp"
             android:textColor="@android:color/black"
             android:paddingTop="8dp"
             android:gravity="start"/>
 
-        <!-- Icon alamat -->
-        <ImageView
-            android:id="@+id/icon_addressN"
-            android:layout_width="26dp"
-            android:layout_height="26dp"
-            android:src="@drawable/address"
-            android:layout_marginTop="-32dp"
-            android:layout_marginEnd="16dp"
-            android:layout_gravity="end" />
 
-        <!-- Profil Asrama -->
+        <!-- Kontak Asrama -->
         <TextView
             android:id="@+id/profileN"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/profil_asramaN"
+            android:text="@string/kontak_asramaN"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>

@@ -30,7 +30,7 @@
             android:id="@+id/profilH"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/alamat_asramaH"
+            android:text="@string/profil_asramaH"
             android:textSize="16sp"
             android:textColor="@android:color/black"
             android:paddingTop="8dp"
@@ -41,7 +41,7 @@
             android:id="@+id/kontakH"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/profil_asramaH"
+            android:text="@string/kontak_asramaH"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>
