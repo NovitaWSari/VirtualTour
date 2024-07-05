@@ -14,7 +14,7 @@
             android:id="@+id/image_360N"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@drawable/placeholder_shape"
+            android:src="@drawable/photo360_asrama_n"
             android:contentDescription="@string/asramaN"
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
@@ -47,7 +47,7 @@
             android:paddingTop="8dp"
             android:gravity="start"/>
 
-        <!-- Fasilitas Asrama -->
+        <!-- Fasilitas Asrama N -->
         <TextView
             android:id="@+id/facilities_titleN"
             android:layout_width="match_parent"
@@ -68,6 +68,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
+                <!-- Fasilitas N1 -->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -84,6 +85,7 @@
                         android:gravity="center"/>
                 </LinearLayout>
 
+                <!-- Fasilitas N2 -->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -100,47 +102,306 @@
                         android:gravity="center"/>
                 </LinearLayout>
 
+                <!-- Fasilitas N3 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN3"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N4 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN4"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N5 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN5"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N6 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN6"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N7 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN7"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N8 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN8"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N9 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN9"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N10 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN10"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N11 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN11"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas N12 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasN12"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
             </LinearLayout>
         </HorizontalScrollView>
 
-        <!-- Kegiatan Harian -->
-        <TextView
-            android:id="@+id/kegiatan_harian_asramaN"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/kegiatan_harian_asramaN"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
 
-        <!-- Kegiatan Mingguan -->
+        <!-- Kegiatan Asrama N -->
         <TextView
-            android:id="@+id/kegiatan_mingguan_asramaN"
-            android:layout_width="match_parent"
+            android:id="@+id/activities_introN"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/kegiatan_mingguan_asramaN"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
+            android:text="Selain Tersedianya Fasilitas yang memadai, di asrama N juga terdapat berbagai kegiatan, meliputi:"
+            android:textSize="16sp"
+            android:paddingTop="16dp"
+            android:paddingBottom="8dp"/>
 
-        <!-- Kegiatan Bulanan -->
-        <TextView
-            android:id="@+id/kegiatan_bulanan_asramaN"
+        <HorizontalScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/kegiatan_bulanan_asramaN"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
+            android:fillViewport="true">
 
-        <!-- Kegiatan Tahunan -->
-        <TextView
-            android:id="@+id/kegiatan_tahunan_asramaN"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/kegiatan_tahunan_asramaN"
-            android:textSize="14sp"
-            android:paddingTop="8dp"
-            android:gravity="start"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <!-- Kegiatan Harian -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Harian"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/kegiatan_harian_asramaN"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_harian_asramaN"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+                <!-- Kegiatan Mingguan -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Mingguan"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/kegiatan_mingguan_asramaN"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_mingguan_asramaN"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+                <!-- Kegiatan Bulanan -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Bulanan"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/kegiatan_bulanan_asramaN"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_bulanan_asramaN"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+                <!-- Kegiatan Tahunan -->
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="8dp"
+                    android:background="@drawable/placeholder_shape"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kegiatan Tahunan"
+                        android:textStyle="bold"
+                        android:textSize="14sp"/>
+
+                    <TextView
+                        android:id="@+id/kegiatan_tahunan_asramaN"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/kegiatan_tahunan_asramaN"
+                        android:textSize="14sp"
+                        android:paddingTop="8dp"
+                        android:gravity="start"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+
     </LinearLayout>
 </ScrollView>

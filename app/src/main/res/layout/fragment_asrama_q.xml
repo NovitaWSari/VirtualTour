@@ -11,7 +11,7 @@
 
         <!-- Foto 360 -->
         <ImageView
-            android:id="@+id/image_360"
+            android:id="@+id/image_360Q"
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:src="@drawable/placeholder_shape"
@@ -24,29 +24,19 @@
             android:id="@+id/address"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/alamat_asramaQ"
+            android:text="@string/profil_asramaQ"
             android:textSize="16sp"
             android:textColor="@android:color/black"
             android:paddingTop="8dp"
             android:gravity="start"/>
 
-        <!-- Icon alamat -->
-        <ImageView
-            android:id="@+id/icon_address"
-            android:layout_width="26dp"
-            android:layout_height="26dp"
-            android:src="@drawable/address"
-            android:layout_marginTop="-32dp"
-            android:layout_marginEnd="16dp"
-            android:layout_gravity="end"
-            />
 
-        <!-- Profil Asrama -->
+        <!-- Kontak Asrama -->
         <TextView
             android:id="@+id/profile"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/profil_asramaQ"
+            android:text="@string/kontak_asramaQ"
             android:textSize="14sp"
             android:paddingTop="8dp"
             android:gravity="start"/>

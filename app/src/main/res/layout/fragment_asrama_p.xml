@@ -11,7 +11,7 @@
 
         <!-- Foto 360 -->
         <ImageView
-            android:id="@+id/image_360"
+            android:id="@+id/image_360P"
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:src="@drawable/placeholder_shape"
@@ -27,7 +27,7 @@
 
         <!-- Profil Asrama -->
         <TextView
-            android:id="@+id/address"
+            android:id="@+id/profilP"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/profil_asramaP"
@@ -39,7 +39,7 @@
 
         <!-- Kontak Asrama -->
         <TextView
-            android:id="@+id/profile"
+            android:id="@+id/kontakP"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/kontak_asramaP"

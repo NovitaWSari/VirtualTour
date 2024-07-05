@@ -14,7 +14,7 @@
             android:id="@+id/image_360G"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@drawable/placeholder_shape"
+            android:src="@drawable/photo360_asrama_g"
             android:contentDescription="@string/asramaG"
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
@@ -47,7 +47,7 @@
             android:paddingTop="8dp"
             android:gravity="start"/>
 
-        <!-- Fasilitas Asrama -->
+        <!-- Fasilitas Asrama G -->
         <TextView
             android:id="@+id/facilities_titleG"
             android:layout_width="match_parent"
@@ -68,6 +68,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
+                <!-- Fasilitas G1 -->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -84,6 +85,7 @@
                         android:gravity="center"/>
                 </LinearLayout>
 
+                <!-- Fasilitas G2 -->
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -100,8 +102,77 @@
                         android:gravity="center"/>
                 </LinearLayout>
 
+                <!-- Fasilitas G3 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasG3"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas G4 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasG4"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas G5 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasG5"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
+                <!-- Fasilitas G6 -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="8dp"
+                    android:background="@drawable/fasilitas_shape"
+                    android:layout_marginEnd="8dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/fasilitasG6"
+                        android:textSize="14sp"
+                        android:gravity="center"/>
+                </LinearLayout>
+
             </LinearLayout>
         </HorizontalScrollView>
+
 
         <!-- Kegiatan Asrama -->
         <TextView

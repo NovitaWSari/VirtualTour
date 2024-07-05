@@ -97,16 +97,18 @@
 
     <!-- ASRAMA G -->
     <string name="asramaG">Foto 360 Asrama G</string>
-    <string name="alamat_asramaG">nnn</string>
-    <string name="profil_asramaG">nn</string>
-    <string name="fasilitasG1">Ruang Belajar</string>
-    <string name="fasilitasG2">Kamar Mandi</string>
-    <string name="fasilitasG3">Perpustakaan</string>
-    <string name="fasilitasG4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaG">Santri di Asrama G mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaG">Santri di Asrama G mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaG">Santri di Asrama G mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaG">Santri di Asrama G mengikuti kegiatan tahunan seperti  </string>
+    <string name="alamat_asramaG">Asrama G merupakan Salah Satu Asrama yang berada di Pondok Pesantren Ngalah. Asrama ini berdiri tahun 2018 dan di asuh oleh Agus H Yaqutun Nafies dan Neng Khurrotin. Adapaun santri putra yang kini menetap di asrama G sebanyak 103 santri dengan jumlah pengurus sebanyak 16 santri.</string>
+    <string name="profil_asramaG">asramag00@gmail.com</string>
+    <string name="fasilitasG1">1 Kantor Asrama</string>
+    <string name="fasilitasG2">18 Ruang Kamar</string>
+    <string name="fasilitasG3">2 Lokal Kamar Mandi</string>
+    <string name="fasilitasG4">1 Mushola</string>
+    <string name="fasilitasG5">10 WC</string>
+    <string name="fasilitasG6">1 Kantin</string>
+    <string name="kegiatan_harian_asramaG">Santri di Asrama G mengikuti kegiatan harian seperti jamaah 5 waktu, jamaah sholat duha, pengajian bandongan, sekolah formal, sekolah non-formal, lalaran nadhoman sesuai kelasnya, madrasatul quran, belajar bersama, ngaji sorogan kitab sesuai kelasnya, pembacaan asmaul husna, pembacaan utawi dan setoran nadhomah </string>
+    <string name="kegiatan_mingguan_asramaG">Santri di Asrama G mengikuti kegiatan mingguan seperti yasin dan tahlil, yasin fadhilah dan istigosah, muhadoroh kamar, pembacaan manaqib, pembacaan diba, ekstra kulikuler, dan roan bersama</string>
+    <string name="kegiatan_bulanan_asramaG">Santri di Asrama G mengikuti kegiatan bulanan seperti dzikrul ghofilin, tadarus Al-quran, khataman Al-quran, muhadoroh akbar, pembacaan istigosah tahlil bersama</string>
+    <string name="kegiatan_tahunan_asramaG">Santri di Asrama G mengikuti kegiatan tahunan seperti peringatan harlah asrama G, OSABA asrama bagi santri baru dan PHBI/PHBN  </string>
 
 
     <!-- ASRAMA H -->
@@ -211,31 +213,42 @@
 
     <!-- ASRAMA M -->
     <string name="asramaM">Foto 360 Asrama M</string>
-    <string name="profil_asramaM">Asrama M merupakan salah satu asrama yang berada di Pondok Pesantren Ngalah</string>
-    <string name="kontak_asramaM">nn</string>
-    <string name="fasilitasM1">Ruang Belajar</string>
-    <string name="fasilitasM2">Kamar Mandi</string>
-    <string name="fasilitasM3">Perpustakaan</string>
-    <string name="fasilitasM4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaM">Santri di Asrama M mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaM">Santri di Asrama M mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaM">Santri di Asrama M mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaM">Santri di Asrama M mengikuti kegiatan tahunan seperti  </string>
+    <string name="profil_asramaM">Asrama M merupakan salah satu asrama yang berada di Pondok Pesantren Ngalah. Asrama M berdiri tahun 2017 dan diasuh oleh Gus Ibnu Athoillah dan Ning Umi Hajar. di Asrama M kini Terdapar 143 Santri Putra yang bermukim dengan jumlah pengurus sebanyak 23 Santri</string>
+    <string name="kontak_asramaM">085806401718</string>
+    <string name="fasilitasM1">2 Kantor Asrama</string>
+    <string name="fasilitasM2">12 Kamar</string>
+    <string name="fasilitasM3">1 Lokal Kamar Mandi</string>
+    <string name="fasilitasM4">1 Mushola</string>
+    <string name="fasilitasM5">10 WC</string>
+    <string name="fasilitasM6">1 Warnet</string>
+    <string name="fasilitasM7">1 Kantin</string>
+    <string name="kegiatan_harian_asramaM">Santri di Asrama M mengikuti kegiatan harian seperti jamaah sholat fardhu, dhuha, MQ, sorogan, syawir bandongan dan pengajian tafsir. </string>
+    <string name="kegiatan_mingguan_asramaM">Santri di Asrama M mengikuti kegiatan mingguan seperti Dibaiyah, manaqib, muhadhoroh dan roan </string>
+    <string name="kegiatan_bulanan_asramaM">Santri di Asrama M mengikuti kegiatan bulanan seperti qosidah burdah, dzikrul ghofilin dan sholawat nariyah </string>
+    <string name="kegiatan_tahunan_asramaM">Santri di Asrama M mengikuti kegiatan tahunan seperti PHBI dan Haflah Akhirussanah </string>
 
 
 
     <!-- ASRAMA N -->
     <string name="asramaN">Foto 360 Asrama N</string>
-    <string name="profil_asramaN">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-    <string name="kontak_asramaN">Asrama N adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2018 dan mampu menampung hingga 340 santri.</string>
-    <string name="fasilitasN1">Ruang Belajar</string>
-    <string name="fasilitasN2">Kamar Mandi</string>
-    <string name="fasilitasN3">Perpustakaan</string>
-    <string name="fasilitasN4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaN">Santri di Asrama A mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaN">Santri di Asrama A mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaN">Santri di Asrama A mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaN">Santri di Asrama A mengikuti kegiatan tahunan seperti  </string>
+    <string name="profil_asramaN">Asrama N merupakan salah satu asrama yang berada di pondok pesantren Ngalah. Asrama ini berdiri tahun 2019 dan diasuh oleh Agus H. Akhmad Fadlan dan Ning Siti Muttohharoh. Adapaun Santri putra yang kini menetap di asrama N ada kurang lebih 500 santri dengan jumlah pengurus sebanyak 40 santri.</string>
+    <string name="kontak_asramaN">-</string>
+    <string name="fasilitasN1">4 Kantor Asrama</string>
+    <string name="fasilitasN2">27 Ruang Kamar</string>
+    <string name="fasilitasN3">24 Kamar Mandi</string>
+    <string name="fasilitasN4">1 Masjid</string>
+    <string name="fasilitasN5">1 Warnet</string>
+    <string name="fasilitasN6">1 Tempat Pengiriman</string>
+    <string name="fasilitasN7">1 Koperasi</string>
+    <string name="fasilitasN8">1 Kamar Mandi Tamu</string>
+    <string name="fasilitasN9">1 Toilet Masjid</string>
+    <string name="fasilitasN10">1 Kantin</string>
+    <string name="fasilitasN11">1 Auditorium</string>
+    <string name="fasilitasN12">1 Aula</string>
+    <string name="kegiatan_harian_asramaN">Santri di Asrama N mengikuti kegiatan harian seperti Madrasatul Quran dan Sorogan</string>
+    <string name="kegiatan_mingguan_asramaN">Santri di Asrama N mengikuti kegiatan mingguan seperti Bandongan kitab dan Muhadoroh Asrama </string>
+    <string name="kegiatan_bulanan_asramaN">Santri di Asrama N mengikuti kegiatan bulanan seperti pengecekan Kitab Bandongan</string>
+    <string name="kegiatan_tahunan_asramaN">Santri di Asrama N mengikuti kegiatan tahunan seperti MILAD asrama N</string>
 
 
     <!-- ASRAMA O -->
@@ -274,22 +287,29 @@
     <string name="kegiatan_harian_asramaP">Santri di Asrama P mengikuti kegiatan harian seperti sholat jamaah 5 waktu, nderes, sekolah diniyah, Qiyammul diniyah, waqiaan, dan kepengasuhan atau wetonan </string>
     <string name="kegiatan_mingguan_asramaP">Santri di Asrama P mengikuti kegiatan mingguan seperti manaqiban, yasin dan tahlil, mengaji Jawabul Masail Dan Diba</string>
     <string name="kegiatan_bulanan_asramaP">Santri di Asrama P mengikuti kegiatan bulanan seperti sowan pengasuh asrama diponpes ngalah, khataman AlQuran disetiap jumat legi, outdor study dan kunjungan orang tua </string>
-    <string name="kegiatan_tahunan_asramaP">Santri di Asrama  Pmengikuti kegiatan tahunan seperti Haflah pondok pesantren ngalah  dan Rihlah asrama P </string>
+    <string name="kegiatan_tahunan_asramaP">Santri di Asrama  P mengikuti kegiatan tahunan seperti Haflah pondok pesantren ngalah  dan Rihlah asrama P </string>
 
 
 
     <!-- ASRAMA Q -->
     <string name="asramaQ">Foto 360 Asrama Q</string>
-    <string name="alamat_asramaQ">Pondok Pesantren Ngalah terletak di jl. Pondok Pesantren Ngalah No. 16 SengonAgung, Purwosari, Pasuruan</string>
-    <string name="profil_asramaQ">Asrama Q adalah salah satu asrama di Pondok Pesantren Ngalah yang memiliki fasilitas lengkap dan suasana yang nyaman bagi para santri. Asrama ini didirikan pada tahun 2021 dan mampu menampung hingga 370 santri.</string>
-    <string name="fasilitasQ1">Ruang Belajar</string>
-    <string name="fasilitasQ2">Kamar Mandi</string>
-    <string name="fasilitasQ3">Perpustakaan</string>
-    <string name="fasilitasQ4">Lapangan Olahraga</string>
-    <string name="kegiatan_harian_asramaQ">Santri di Asrama Q mengikuti kegiatan harian seperti </string>
-    <string name="kegiatan_mingguan_asramaQ">Santri di Asrama Q mengikuti kegiatan mingguan seperti </string>
-    <string name="kegiatan_bulanan_asramaQ">Santri di Asrama Q mengikuti kegiatan bulanan seperti </string>
-    <string name="kegiatan_tahunan_asramaQ">Santri di Asrama Q mengikuti kegiatan tahunan seperti  </string>
+    <string name="profil_asramaQ">Asrama Q merupakan salah satu asrama di Pondok Pesantren Ngalah. asrama Q berdiri tahun 2024 dan diasuh oleh Dr. Agus H Murtadlo dan Neng Lulun Nadhiroh.  karena tergolong asrama baru, jumlah santri putra yang kini menetap di asrama Q hanya sekitar 50 santri dengan jumlah pengurus hanya 4 santri.</string>
+    <string name="kontak_asramaQ">-</string>
+    <string name="fasilitasQ1">1 Kantor Asrama</string>
+    <string name="fasilitasQ2">4 Kamar</string>
+    <string name="fasilitasQ3">3 Kamar Mandi</string>
+    <string name="fasilitasQ4">1 Masjid</string>
+    <string name="fasilitasQ5">2 WC</string>
+    <string name="fasilitasQ6">1 Koperasi</string>
+    <string name="fasilitasQ7">2 Kamar Mandi Masjid</string>
+    <string name="fasilitasQ8">2 Kantin</string>
+    <string name="fasilitasQ9">1 Auditorium</string>
+    <string name="fasilitasQ10">1 Aula</string>
+    <string name="fasilitasQ11">1 Jemuran</string>
+    <string name="kegiatan_harian_asramaQ">Santri di Asrama Q mengikuti kegiatan harian seperti sholat berjamaah, ngaji bandongan jawahirul bukhori, sekolah formal, khataman Al-quran, MQ, diniyah dan sorogan </string>
+    <string name="kegiatan_mingguan_asramaQ">Santri di Asrama Q mengikuti kegiatan mingguan seperti bandongan At-tibyan, muhadoroh, manaqib, dibaiyah, yasin fadhilah, bandongan kitab ayuhal walad, bandongan jurumiyah, bandongan taisiru kholaq, extra qiroat dan roan bersama</string>
+    <string name="kegiatan_bulanan_asramaQ">Santri di Asrama Q mengikuti kegiatan bulanan seperti sholat malam, khataman Al-quran dan dzikrul ghofilin </string>
+    <string name="kegiatan_tahunan_asramaQ">Santri di Asrama Q mengikuti kegiatan tahunan seperti PHBI dan Haflah  </string>
 
 
 </resources>
