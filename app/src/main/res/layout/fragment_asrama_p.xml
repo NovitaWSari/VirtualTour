@@ -14,7 +14,7 @@
             android:id="@+id/image_360P"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:src="@drawable/placeholder_shape"
+            android:src="@drawable/photo360_asrama_p"
             android:contentDescription="@string/asramaP"
             android:scaleType="centerCrop"
             android:onClick="view360Image" />
@@ -23,7 +23,8 @@
             android:id="@+id/directionOneBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Lihat Lokasi Di Google Maps"/>
+            android:text="Lihat Lokasi Di Google Maps"
+            android:backgroundTint="@color/green"/>
 
         <!-- Profil Asrama -->
         <TextView

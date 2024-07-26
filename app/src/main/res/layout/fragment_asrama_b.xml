@@ -23,7 +23,8 @@
             android:id="@+id/directionOneBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Lihat Lokasi Di Google Maps"/>
+            android:text="Lihat Lokasi Di Google Maps"
+            android:backgroundTint="@color/green"/>
 
         <TextView
             android:id="@+id/profilB"

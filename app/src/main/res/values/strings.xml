@@ -47,10 +47,12 @@
     <string name="asramaC">Foto 360 Asrama C</string>
     <string name="profil_asramaC">Asrama C merupakan salah satu asrama yang terdapat di Pondok pesantren Ngalah, adapun Pengasuh Asrama C sama seperti Asrama A dan B, yaitu Gus Muhammad Jamaluddin dan Neng Siti Nuronia. </string>
     <string name="kontak_asramaC">0895637043388</string>
-    <string name="fasilitasC1">Ruang Belajar</string>
-    <string name="fasilitasC2">Kamar Mandi</string>
-    <string name="fasilitasC3">Perpustakaan</string>
-    <string name="fasilitasC4">Lapangan Olahraga</string>
+    <string name="fasilitasC1">1 Kantor Asrama</string>
+    <string name="fasilitasC2">3 Lokal Kamar Mandi</string>
+    <string name="fasilitasC3">12 Kamar Tidur</string>
+    <string name="fasilitasC4">1 Warnet</string>
+    <string name="fasilitasC5">1 Aula</string>
+    <string name="fasilitasC6">10 WC</string>
     <string name="kegiatan_harian_asramaC">Santri di Asrama C mengikuti kegiatan harian seperti Jamaah sholat subuh, nadhoman sesuai kelas masing-masing, pengajian sorogan dan mutolaah, pengajian yasin, al-waqiah dan ar-rahman, piket halaman asrama, jamaah sholat duha, sekolah formal, jamaah sholat asar, pengajian kitab tafsir, pengajian kitab taklim, pengajian kitab Wasoyah, Risalatul Mahid ,Taisil Kholaq, pengajian surah Al-waqiah, jaamah sholat magrib, madrasatul quran, jamaah sholat isya dan madrasah diniah </string>
     <string name="kegiatan_mingguan_asramaC">Santri di Asrama C mengikuti kegiatan mingguan seperti Pengajian Qomiut tughyan, pengajian kitab Syarah Hikam, Pengaian Kitab Tanqihul Qoul, Pengajian KItab Fathul Qorib, tahwil bersamah, membaca surat Yasin bersama, dibaiyah, tajwidan, utawi dan irob Asmaul khusna bersama, manaqiban, istigosah, muhadoroh asrama, tadarus Al-quran, pembelajaran Qiroah dan Skil Atlas Wali Songo, Jawabul masail, Banjari, MC, Pidato, Kaligrafi. </string>
     <string name="kegiatan_bulanan_asramaC">Santri di Asrama C mengikuti kegiatan bulanan seperti muhadoroh, roan akbar, ubudiyah, burdah, dan dzikrul gofilin </string>
@@ -135,7 +137,7 @@
 
     <!-- ASRAMA I -->
     <string name="asramaI">Foto 360 Asrama I</string>
-    <string name="profil_asramaI">Asrama I merupakan salah satu asrama yang berada di Pondok pEsantren Ngalah. Asrama I berdiri tahun 2011 dan diasuh oleh Agus H. Muhammada Dan Neng Siti Khurrotin. Santri Putri yang tinggal di asrama I adalah 237 Santri dengan Jumlah pengurus 20 Santri</string>
+    <string name="profil_asramaI">Asrama I merupakan salah satu asrama yang berada di Pondok Pesantren Ngalah. Asrama I berdiri tahun 2011 dan diasuh oleh Agus H. Muhammada Dan Neng Siti Khurrotin. Santri Putri yang tinggal di asrama I adalah 237 Santri dengan Jumlah pengurus 20 Santri</string>
     <string name="kontak_asramaI">087777305121, asramaipp@gmail.com</string>
     <string name="fasilitasI1">1 Kantor Asrama</string>
     <string name="fasilitasI2">13 Kamar</string>
@@ -273,8 +275,8 @@
 
     <!-- ASRAMA P -->
     <string name="asramaP">Foto 360 Asrama P</string>
-    <string name="profil_asramaP">nn</string>
-    <string name="kontak_asramaP">nn</string>
+    <string name="profil_asramaP">Asrama P merupakan salah satu asrama yang berada di Pondok Pesantren Ngalah. Asrama P diperuntukkan Khusus untuk anak-anak setingkat sekolah dasar. Adapun syarat minimal menetap di asrama P adalah kelas 1 SD dan sudah mengenal Huruf dan Angka. Adapun pengasuh asrama P adalah Agus Ahmad Sirojil Munir s.Hum dan Neng Nila Ilyatuz Zulfa S.Hum., M.Pd</string>
+    <string name="kontak_asramaP">-</string>
     <string name="fasilitasP1">1 Ruang Terpadu Wali Santri</string>
     <string name="fasilitasP2">1 Mushola</string>
     <string name="fasilitasP3">1 Asrama Putra</string>
