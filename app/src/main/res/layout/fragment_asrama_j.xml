@@ -6,18 +6,24 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical">
 
+        <!-- Progress Bar -->
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"/>
         <!-- Foto 360 -->
-        <ImageView
-            android:id="@+id/image_360J"
+        <WebView
+            android:id="@+id/webview_360"
             android:layout_width="match_parent"
-            android:layout_height="200dp"
-            android:src="@drawable/photo360_asrama_j"
-            android:contentDescription="@string/asramaJ"
-            android:scaleType="centerCrop"
-            android:onClick="view360Image" />
+            android:layout_height="700dp"
+            android:layout_gravity="center"
+            android:background="@android:color/darker_gray" />
+
 
 
         <com.google.android.material.button.MaterialButton
